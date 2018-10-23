@@ -1,0 +1,15 @@
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.csprojResolveAssemblyReference.cache
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Model\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Model\obj\Debug\ABS.Model.pdb

@@ -1,0 +1,33 @@
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.csprojResolveAssemblyReference.cache
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.xml
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Configuration\obj\Debug\ABS.Configuration.pdb

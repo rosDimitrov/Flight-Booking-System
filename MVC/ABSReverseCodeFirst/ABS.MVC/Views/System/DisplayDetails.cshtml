@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ABS.MVC.Models.SystemDetailsViewModel>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AirlineName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Origin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Destination)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FlightSectionName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FlightId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Row)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Column)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsTaken)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AirlineName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Origin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Destination)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightSectionName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Row)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Column)
+        </td>
+        <td>
+            @if(item.IsTaken == true)
+            {
+                @("YES")
+            }
+            else
+            {
+                @("NO")               
+            }
+        </td>
+  
+    </tr>
+}
+
+</table>

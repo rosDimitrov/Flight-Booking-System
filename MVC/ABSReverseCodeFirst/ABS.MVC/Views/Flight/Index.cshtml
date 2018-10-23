@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ABS.MVC.Models.AvailableFlightViewModel>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AirlineName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Origin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Destination)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FlightSectionName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FlightId)
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AirlineName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Origin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Destination)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightSectionName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightId)
+        </td>
+                
+    </tr>
+}
+
+</table>

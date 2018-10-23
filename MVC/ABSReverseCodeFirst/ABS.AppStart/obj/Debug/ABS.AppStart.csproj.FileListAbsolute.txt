@@ -1,0 +1,59 @@
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe.config
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.xml
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.csprojResolveAssemblyReference.cache
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.exe
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.dll
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.pdb
+c:\users\ross\documents\visual studio 2015\Projects\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe.config
+C:\Users\Rostislav Dimitrov\Desktop\Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.exe
+C:\Users\Rostislav Dimitrov\Desktop\Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe.config
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.exe
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Interfaces.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Interfaces.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Util.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe.config
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.exe
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.exe
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.AppStart.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Interfaces.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Configuration.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Data.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Interfaces.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\ABS.Util.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.xml
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.AppStart\obj\Debug\ABS.AppStart.csprojResolveAssemblyReference.cache

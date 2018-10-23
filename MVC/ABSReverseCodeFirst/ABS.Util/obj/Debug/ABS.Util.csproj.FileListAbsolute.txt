@@ -1,0 +1,14 @@
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Util.pdb
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\3. Reversed Code First\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Util.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Interfaces.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Model.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Interfaces.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\bin\Debug\ABS.Model.pdb
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.csprojResolveAssemblyReference.cache
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.dll
+C:\Users\Rostislav Dimitrov\Desktop\4. MVC\ABSReverseCodeFirst\ABS.Util\obj\Debug\ABS.Util.pdb
